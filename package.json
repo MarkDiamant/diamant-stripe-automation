@@ -1,0 +1,9 @@
+{
+  "name": "diamant-stripe-automation",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "stripe": "^18.5.0"
+  }
+}
